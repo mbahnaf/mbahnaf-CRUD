@@ -4,7 +4,7 @@
 	 *
 	 */
 
-	$host = 'localhost';
+	$host = 'db.mbahnaf.local';
 	$db   = 'project';
 	$user = 'demo';
 	$pass = 'user';
